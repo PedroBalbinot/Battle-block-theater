@@ -24,4 +24,5 @@
  .container--botao{ 
     background-color:var(--botao-des) ;
     color: var(#FFFFFF);
+    border-style: dotted;
  }
