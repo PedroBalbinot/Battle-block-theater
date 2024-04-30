@@ -15,14 +15,19 @@
 .principal {
 
     background-image: url("imagens/Background.png");
-    background-size:contain
+    background-size:contain;
+    background-repeat:no-repeat;
+    text-align: center;
+    align-items: center;
 
 }
 .container{
-    height: 100vh;                
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 50%;                
 }
  .container--botao{ 
     background-color:var(--botao-destaque) ;
-    color: var(#000000);
+    color: var(#ffffff);
     border-style: dotted;
  }
