@@ -23,6 +23,6 @@
 }
  .container--botao{ 
     background-color:var(--botao-destaque) ;
-    color: var(#FFFFFF);
+    color: var(#000000);
     border-style: dotted;
  }
