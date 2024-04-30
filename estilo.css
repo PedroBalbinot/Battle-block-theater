@@ -22,7 +22,7 @@
     height: 100vh;                
 }
  .container--botao{ 
-    background-color:var(--botao-des) ;
+    background-color:var(--botao-destaque) ;
     color: var(#FFFFFF);
     border-style: dotted;
  }
