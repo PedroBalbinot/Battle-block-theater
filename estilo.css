@@ -19,7 +19,7 @@
     background-repeat:no-repeat;
     text-align: center;
     align-items: center;
-
+    background-color: red;
 }
 .container{
     height: 100vh;
