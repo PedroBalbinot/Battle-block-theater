@@ -13,13 +13,12 @@
 }
 
 .principal {
-
+    background-color:#CE2929;
     background-image: url("imagens/Background.png");
     background-size:contain;
     background-repeat:no-repeat;
     text-align: center;
     align-items: center;
-    background-color:#CE2929;
 }
 .container{
     height: 100vh;
