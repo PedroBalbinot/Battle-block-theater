@@ -27,6 +27,7 @@
     color: var(--cor-principal));
 
 }
+
  .container--botao{ 
     background-color:var(--botao-destaque) ;
     color: var(--cor-principal);
