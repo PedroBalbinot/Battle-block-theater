@@ -18,15 +18,21 @@
     background-size:contain;
     background-repeat:no-repeat;
     text-align: center;
-    align-items: center;
+    font-size: 23px;
 }
 .container{
     height: 100vh;
     display: grid;
-    grid-template-columns: 50% 50%;                
+    grid-template-columns: 50% 50%;   
+    color: var(--cor-principal));
+
 }
  .container--botao{ 
     background-color:var(--botao-destaque) ;
-    color: var(#ffffff);
-    border-style: dotted;
+    color: var(--cor-principal);
+    padding: 1em;
+    margin: 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    
  }
